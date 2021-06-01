@@ -1,4 +1,4 @@
-<span style="position: absolute; color: transparent">
+<span style="position: absolute; color: transparent;">
 
    _______    ______    ___        ____  ___________  _______
   |   __ "\  /    " \  |"  |      /  " \("     _   ")/" __   )
