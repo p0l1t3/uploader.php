@@ -1,5 +1,4 @@
-# uploader.php
-uploader.php shell
+#P0L1T3
 
 <?php
 
