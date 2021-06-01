@@ -12,9 +12,10 @@
 
 <body style="padding: 0; margin: 0; background-color: #000000; color: #ffffff;">
 <form action="upload.php" method="post" enctype="multipart/form-data">
-  Select image to upload:
+  <p>Select image to upload:
   <input type="file" name="fileToUpload" id="fileToUpload">
   <input type="submit" value="Upload" name="submit">
+  </p>
 </form>
 
 </body>
